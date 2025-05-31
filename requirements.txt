@@ -1,0 +1,5 @@
+rdflib
+sentence-transformers
+faiss-cpu
+numpy
+torch
