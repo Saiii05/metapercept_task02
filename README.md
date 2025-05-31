@@ -10,19 +10,7 @@ This project demonstrates building a basic RDF knowledge graph, converting its t
 
 ## Setup
 
-1.  **Clone the repository (if applicable)**
-    ```bash
-    # git clone <repository_url>
-    # cd <repository_directory>
-    ```
-
-2.  **Create and activate a virtual environment (recommended)**
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3.  **Install dependencies**
+ **Install dependencies**
     Create a `requirements.txt` file with the following content:
     ```
     rdflib
